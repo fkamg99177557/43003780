@@ -1,3 +1,4 @@
+ps.close();
 rs.close();
 Class.forName(driverClass);
 test.init();
