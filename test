@@ -1,3 +1,4 @@
+props.load(fs);
 rs.close();
 Connection con;
 props.load(fs);
