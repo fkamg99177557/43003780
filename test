@@ -1,3 +1,4 @@
+String url = props.getProperty("db.url");
 props.load(fs);
 rs.close();
 Connection con;
